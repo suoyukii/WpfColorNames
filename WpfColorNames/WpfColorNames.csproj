@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>WinExe</OutputType>
+        <TargetFramework>net8.0-windows</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <UseWPF>true</UseWPF>
+        <Authors>suoyukii</Authors>
+        <Copyright>Copyright © 2024 suoyukii</Copyright>
+        <PackageProjectUrl>https://github.com/suoyukii/WpfColorNames</PackageProjectUrl>
+        <PackageLicenseUrl>https://github.com/suoyukii/WpfColorNames?tab=MIT-1-ov-file</PackageLicenseUrl>
+    </PropertyGroup>
+
+</Project>
