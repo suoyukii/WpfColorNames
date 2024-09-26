@@ -29,4 +29,4 @@ WpfColorNames can display all the preset color names of wpf.
 WpfColorNames requires **.Net 8.0** to run successfully.
 
 - [Dowload .Net 8.0](https://dotnet.microsoft.com/zh-cn/download/dotnet/latest/runtime)
-- [Dowload SimpleHTTPServer](https://github.com/suoyukii/WpfColorNames/releases)
+- [Dowload WpfColorNames](https://github.com/suoyukii/WpfColorNames/releases)
